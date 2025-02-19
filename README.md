@@ -1,6 +1,5 @@
 # FastAPI
 
-
 ## Setup Instructions
 
 1. **Clone the repository:**  `git clone https://github.com/davidfl10/FastAPI`
@@ -9,6 +8,7 @@
    * Windows: `.venv\Scripts\activate`
 4. **Install dependencies:** `pip install -r requirements.txt`
 5. **Run the application:** `fastapi dev main.py`
+6. **OpenAPI documentation**: `http://localhost:8000/docs`   - on port /docs
 
 ## CRUD Operations Logic
 
